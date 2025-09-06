@@ -51,3 +51,6 @@ public class ParsingNumbers
     }
 
 }
+
+// ParseInt Results: Mean 67.81ns | Error 1.388 ns | StdDev 1.599ns
+// TryParseInt: Mean 67.99ns | Error 1.396ns | StdDev 1.910ns
